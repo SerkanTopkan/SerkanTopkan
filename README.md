@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/C5603AQGvtyU3EhFuOw/profile-displayphoto-shrink_200_200/0/1579585365977?e=1680739200&v=beta&t=myeEVY93cmy3CRHBtBCUd6tYGUTc8h815oScVw69Ask"  />
 </div>
@@ -10,7 +8,7 @@
 
 ###
 
-<p align="left">Back-End</p>
+<h2 align="left">Back-End</h2>
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<p align="left">Front-End</p>
+<h2 align="left">Front-End</h2>
 
 ###
 
@@ -43,7 +41,7 @@
 
 ###
 
-<p align="left">Database & Caching</p>
+<h2 align="left">Database & Caching</h2>
 
 ###
 
@@ -58,7 +56,7 @@
 
 ###
 
-<p align="left">Dev-Ops</p>
+<h2 align="left">Dev-Ops</h2>
 
 ###
 
@@ -70,7 +68,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h2 align="left">Social Media</h2>
 
 ###
 
@@ -92,6 +90,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SerkanTopkan/SerkanTopkan/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SerkanTopkan&theme=dark&hide_border=false)
 
 ###
